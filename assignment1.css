@@ -1,13 +1,13 @@
 html {
-   border-style: solid;
-    border-width: 5pt;
-    padding: 10pt;
-    margin: 10pt;
+    border-style: solid;
+    margin-left: 50pt;
+    margin-right: 50pt;
     background-color: black;
 }
 
 body {
     background-color: #ed820e;
+    padding: 10pt;
 }
 
 img {
@@ -64,7 +64,8 @@ a {
 }
 
 #pictures {
-    width: 450pt;
+    width: 425pt;
+    height: 80pt;
     margin-left: auto;
     margin-right: auto;
 }
