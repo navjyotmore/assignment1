@@ -1,0 +1,88 @@
+html{
+    border-style: solid;
+    border-width: 5pt;
+    padding: 50pt;
+    margin: 10pt;
+    background-color: black;
+}
+
+body {
+    background-color: #ed820e;
+    padding: 10pt;
+  }
+
+  img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h1 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+
+  h2 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #793802;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #793802;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 0px;
+  }
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  #list {
+    width: 300pt;
+    text-align: left;
+    list-style-position: inside;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #pictures {
+    width: 425pt;
+    height: 100pt;
+    list-style-position: inside;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #links {
+    text-align: justify;
+    width: 100pt;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #793802;
+    font-size: 20px;
+  }
+
+ 
