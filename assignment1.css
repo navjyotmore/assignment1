@@ -1,9 +1,8 @@
 html {
     border-style: solid;
-    margin-top: 10pt;
-    margin-bottom: 10pt;
-    margin-left: 50pt;
-    margin-right: 50pt;
+    border-width: 5pt;
+    padding: 50pt;
+    margin: 50pt;
     background-color: black;
 }
 
